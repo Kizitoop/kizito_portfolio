@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Kizitoop
-- 👀 I’m interested in Programming and Cybersecurity 
-- 🌱 I’m currently learning App Development & Cybersecurity
-- 💞️ I’m looking to collaborate on projects together 
-- 📫 How to reach me: +2348169759235
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: The only friend of mine is my laptop 
+👋 Hi, I’m **@Kizitoop**
+
+👀 I’m interested in **Programming, Cybersecurity, and Technology**
+
+🌱 I’m currently learning **App Development and Cybersecurity**
+
+💞️ I’m looking to **collaborate on interesting tech and security projects**
+
+📫 How to reach me: **+2348169759235**
+
+😄 Pronouns: **He/Him**
+
+⚡ Fun fact: **My laptop is my closest companion — always learning, always building.**
 
 <!---
 Kizitoop/Kizitoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
