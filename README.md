@@ -1,18 +1,15 @@
-👋 Hi, I’m **@Kizitoop**
+# Kizito Oparaji 
 
-👀 I’m interested in **Programming, Cybersecurity, and Technology**
+### Full-Stack Web Developer
 
-🌱 I’m currently learning **App Development and Cybersecurity**
+I build modern, responsive, and scalable web applications.
 
-💞️ I’m looking to **collaborate on interesting tech and security projects**
+### Tech Stack
 
-📫 How to reach me: **+2348169759235**
+**Frontend:** HTML, CSS, JavaScript, React
 
-😄 Pronouns: **He/Him**
+**Backend:** Node.js, Express.js, Python
 
-⚡ Fun fact: **My laptop is my closest companion — always learning, always building.**
+**Database:** MongoDB, PostgreSQL
 
-<!---
-Kizitoop/Kizitoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Tools:** Git, GitHub, Linux
